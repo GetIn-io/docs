@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e39cc19d-2b76-4d32-bff4-f24cb8fb10bf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/general/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/config.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/404.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/img/search.83621669.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/2.2c38f657.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.vuepress/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,7 +15,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectId" id="1lki3o0neXmBn5AmoSGUSqsMU1f" />
   <component name="ProjectViewState">
@@ -30,7 +24,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../.." />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/general" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -38,6 +32,9 @@
     <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/general" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
@@ -53,7 +50,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1608147292716</updated>
-      <workItem from="1608147294533" duration="6720000" />
+      <workItem from="1608147294533" duration="7090000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1608152089903</created>
@@ -83,7 +80,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608393103288</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="initial commit">
+      <created>1608394792678</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1608394792679</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -101,18 +105,18 @@
       <screen x="0" y="23" width="1280" height="733" />
     </state>
     <state x="364" y="198" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1280.733@0.23.1280.733" timestamp="1608394605831" />
-    <state x="194" y="23" key="CommitChangelistDialog2" timestamp="1608393103021">
+    <state x="194" y="23" key="CommitChangelistDialog2" timestamp="1608394792359">
       <screen x="0" y="23" width="1280" height="733" />
     </state>
-    <state x="194" y="23" key="CommitChangelistDialog2/0.23.1280.733@0.23.1280.733" timestamp="1608393103021" />
+    <state x="194" y="23" key="CommitChangelistDialog2/0.23.1280.733@0.23.1280.733" timestamp="1608394792359" />
     <state x="128" y="85" key="DiffContextDialog" timestamp="1608151940641">
       <screen x="0" y="23" width="1280" height="733" />
     </state>
     <state x="128" y="85" key="DiffContextDialog/0.23.1280.733@0.23.1280.733" timestamp="1608151940641" />
-    <state x="240" y="129" key="Vcs.Push.Dialog.v2" timestamp="1608393156462">
+    <state x="240" y="129" key="Vcs.Push.Dialog.v2" timestamp="1608394800376">
       <screen x="0" y="23" width="1280" height="733" />
     </state>
-    <state x="240" y="129" key="Vcs.Push.Dialog.v2/0.23.1280.733@0.23.1280.733" timestamp="1608393156462" />
+    <state x="240" y="129" key="Vcs.Push.Dialog.v2/0.23.1280.733@0.23.1280.733" timestamp="1608394800376" />
     <state x="364" y="130" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1608151950758">
       <screen x="0" y="23" width="1280" height="733" />
     </state>
