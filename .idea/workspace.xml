@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e39cc19d-2b76-4d32-bff4-f24cb8fb10bf" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/docs/CNAME" beforeDir="false" afterPath="$PROJECT_DIR$/CNAME" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,8 +46,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1608147292716</updated>
-      <workItem from="1608147294533" duration="2128000" />
+      <workItem from="1608147294533" duration="3298000" />
     </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <created>1608152089903</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1608152089904</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -54,5 +63,27 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="194" y="23" key="CommitChangelistDialog2" timestamp="1608152089547">
+      <screen x="0" y="23" width="1280" height="733" />
+    </state>
+    <state x="194" y="23" key="CommitChangelistDialog2/0.23.1280.733@0.23.1280.733" timestamp="1608152089547" />
+    <state x="128" y="85" key="DiffContextDialog" timestamp="1608151940641">
+      <screen x="0" y="23" width="1280" height="733" />
+    </state>
+    <state x="128" y="85" key="DiffContextDialog/0.23.1280.733@0.23.1280.733" timestamp="1608151940641" />
+    <state x="240" y="129" key="Vcs.Push.Dialog.v2" timestamp="1608152100726">
+      <screen x="0" y="23" width="1280" height="733" />
+    </state>
+    <state x="240" y="129" key="Vcs.Push.Dialog.v2/0.23.1280.733@0.23.1280.733" timestamp="1608152100726" />
+    <state x="364" y="130" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1608151950758">
+      <screen x="0" y="23" width="1280" height="733" />
+    </state>
+    <state x="364" y="130" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.23.1280.733@0.23.1280.733" timestamp="1608151950758" />
   </component>
 </project>
