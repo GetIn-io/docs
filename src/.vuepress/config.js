@@ -6,7 +6,11 @@ module.exports = {
    */
   title: 'GetIn',
 
-  base:"/docs/",
+  /**
+   * compile files to docs
+   */
+  dest:"docs/",
+
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#description
    */
