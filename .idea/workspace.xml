@@ -2,8 +2,62 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e39cc19d-2b76-4d32-bff4-f24cb8fb10bf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/general/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/general/faq.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sending_campaigns/adding_email.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sending_campaigns/assets/add_email_image2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sending_campaigns/assets/add_email_image3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sending_campaigns/assets/campaign_image1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sending_campaigns/assets/campaign_image2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sending_campaigns/assets/campaign_image3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sending_campaigns/assets/campaign_image4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sending_campaigns/assets/campaign_image5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sending_campaigns/assets/campaign_image6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sending_campaigns/assets/campaign_image7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sending_campaigns/assets/create_image1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sending_campaigns/assets/reports_image1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sending_campaigns/assets/reports_image2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sending_campaigns/assets/reports_image3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sending_campaigns/assets/reports_image4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sending_campaigns/assets/schedule_image1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sending_campaigns/assets/schedule_image2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sending_campaigns/create_email_template.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sending_campaigns/reports.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sending_campaigns/schedule_template.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sending_campaigns/send_out_campaign.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.npmignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/css/0.styles.f39cd3fd.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/img/search.83621669.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/js/10.d197fcef.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/js/11.f4c985e5.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/js/12.37d4d6cf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/js/2.e2459226.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/js/3.95aadac3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/js/4.191c994e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/js/5.49402aed.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/js/6.2f08a0cb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/js/7.f884d9b6.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/js/8.0c8754eb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/js/9.da04a6e5.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/js/app.521c222c.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/config/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/general/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.vuepress/components/Foo/Bar.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.vuepress/components/OtherComponent.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.vuepress/components/demo-component.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.vuepress/config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.vuepress/enhanceApp.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/enhanceApp.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.vuepress/styles/index.styl" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/styles/index.styl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.vuepress/styles/palette.styl" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/styles/palette.styl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/config/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/general/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,25 +71,42 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1lki3o0neXmBn5AmoSGUSqsMU1f" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/general" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/sending_campaigns/assets" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/sending_campaigns/assets" />
+      <recent name="$PROJECT_DIR$/src/sending_campaigns" />
+      <recent name="$PROJECT_DIR$/src/.vuepress/public/adding_email" />
       <recent name="$PROJECT_DIR$/src/general" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/sending_campaigns/assets" />
+      <recent name="$PROJECT_DIR$/src/.vuepress/public/sending_campaigns" />
+      <recent name="$PROJECT_DIR$/src/.vuepress" />
+      <recent name="$PROJECT_DIR$/src/general" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -51,6 +122,8 @@
       <option name="presentableId" value="Default" />
       <updated>1608147292716</updated>
       <workItem from="1608147294533" duration="7090000" />
+      <workItem from="1616614891757" duration="10088000" />
+      <workItem from="1616948456037" duration="8846000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1608152089903</created>
@@ -93,37 +166,8 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
     <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="364" y="198" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1608394605831">
-      <screen x="0" y="23" width="1280" height="733" />
-    </state>
-    <state x="364" y="198" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1280.733@0.23.1280.733" timestamp="1608394605831" />
-    <state x="194" y="23" key="CommitChangelistDialog2" timestamp="1608394792359">
-      <screen x="0" y="23" width="1280" height="733" />
-    </state>
-    <state x="194" y="23" key="CommitChangelistDialog2/0.23.1280.733@0.23.1280.733" timestamp="1608394792359" />
-    <state x="128" y="85" key="DiffContextDialog" timestamp="1608151940641">
-      <screen x="0" y="23" width="1280" height="733" />
-    </state>
-    <state x="128" y="85" key="DiffContextDialog/0.23.1280.733@0.23.1280.733" timestamp="1608151940641" />
-    <state x="240" y="129" key="Vcs.Push.Dialog.v2" timestamp="1608394800376">
-      <screen x="0" y="23" width="1280" height="733" />
-    </state>
-    <state x="240" y="129" key="Vcs.Push.Dialog.v2/0.23.1280.733@0.23.1280.733" timestamp="1608394800376" />
-    <state x="364" y="130" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1608151950758">
-      <screen x="0" y="23" width="1280" height="733" />
-    </state>
-    <state x="364" y="130" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.23.1280.733@0.23.1280.733" timestamp="1608151950758" />
-    <state x="338" y="144" width="604" height="490" key="find.popup" timestamp="1608394350198">
-      <screen x="0" y="23" width="1280" height="733" />
-    </state>
-    <state x="338" y="144" width="604" height="490" key="find.popup/0.23.1280.733@0.23.1280.733" timestamp="1608394350198" />
   </component>
 </project>
