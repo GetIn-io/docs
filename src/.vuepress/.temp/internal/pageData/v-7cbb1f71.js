@@ -21,7 +21,13 @@ export const data = {
   ],
   "filePathRelative": "sending_campaigns/adding_email.md",
   "git": {
-    "updatedTime": null,
-    "contributors": []
+    "updatedTime": 1616960722000,
+    "contributors": [
+      {
+        "name": "Nerijus Oftas",
+        "email": "nerijus.oftas@gmail.com",
+        "commits": 1
+      }
+    ]
   }
 }

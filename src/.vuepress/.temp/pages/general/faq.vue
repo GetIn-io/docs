@@ -1,4 +1,4 @@
-<template><p>#FAQ</p>
+<template><h1 id="faq"><a class="header-anchor" href="#faq">#</a> FAQ</h1>
 <p>We've collected just a few of our most popular questions.</p>
 <h2 id="google-says-i-sent-too-many-emails-or-they-ve-suspended-my-account"><a class="header-anchor" href="#google-says-i-sent-too-many-emails-or-they-ve-suspended-my-account">#</a> Google says I sent too many emails or they've suspended my account.</h2>
 <p>Google has daily limits on how much email you're allowed to send, but even if you don't go over that limit they can throttle your sending for any reason.</p>

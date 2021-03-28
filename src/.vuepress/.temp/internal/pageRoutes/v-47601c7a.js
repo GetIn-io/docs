@@ -5,7 +5,7 @@ export default [
     name: "v-47601c7a",
     path: "/general/faq.html",
     component: Vuepress,
-    meta: { title: "" },
+    meta: { title: "FAQ" },
   },
   {
     path: "/general/faq.md",

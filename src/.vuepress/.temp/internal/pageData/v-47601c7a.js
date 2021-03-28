@@ -1,7 +1,7 @@
 export const data = {
   "key": "v-47601c7a",
   "path": "/general/faq.html",
-  "title": "",
+  "title": "FAQ",
   "lang": "en-US",
   "frontmatter": {},
   "excerpt": "",
@@ -27,7 +27,13 @@ export const data = {
   ],
   "filePathRelative": "general/faq.md",
   "git": {
-    "updatedTime": null,
-    "contributors": []
+    "updatedTime": 1616962160000,
+    "contributors": [
+      {
+        "name": "Nerijus Oftas",
+        "email": "nerijus.oftas@gmail.com",
+        "commits": 2
+      }
+    ]
   }
 }
