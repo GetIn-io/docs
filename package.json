@@ -9,8 +9,7 @@
   },
   "repository": "https://github.com/GetIn-io/docs/GetIn.io",
   "scripts": {
-    "src:dev": "vuepress dev src",
-    "docs:dev": "vuepress dev docs",
+    "docs:dev": "vuepress dev src",
     "docs:build": "vuepress build src"
   },
   "license": "MIT"
