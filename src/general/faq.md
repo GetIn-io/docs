@@ -1,4 +1,4 @@
-#FAQ
+# FAQ
 
 We've collected just a few of our most popular questions.
 
