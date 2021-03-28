@@ -1,0 +1,17 @@
+{
+  "name": "GetIn.io",
+  "version": "0.0.1",
+  "description": "Documentation of outreach tool for online creators and agencies",
+  "main": "index.js",
+  "authors": {
+    "name": "GetIn",
+    "email": "support@getin.io"
+  },
+  "repository": "https://github.com/GetIn-io/docs/GetIn.io",
+  "scripts": {
+    "src:dev": "vuepress dev src",
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build src"
+  },
+  "license": "MIT"
+}
