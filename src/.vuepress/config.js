@@ -1,13 +1,6 @@
 const { description } = require('../../package')
 
 module.exports = {
-    configureWebpack: {
-        resolve: {
-            alias: {
-                '@alias': './'
-            }
-        }
-    },
     /**
      * Ref：https://v1.vuepress.vuejs.org/config/#title
      */
@@ -50,6 +43,8 @@ module.exports = {
         searchPlaceholder: 'Search...',
         smoothScroll: true,
         displayAllHeaders: true,
+        contributors:false,
+
         nav: [
             {
               text: 'GitHub',

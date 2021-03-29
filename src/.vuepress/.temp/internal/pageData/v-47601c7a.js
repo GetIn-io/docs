@@ -27,13 +27,6 @@ export const data = {
   ],
   "filePathRelative": "general/faq.md",
   "git": {
-    "updatedTime": 1616962160000,
-    "contributors": [
-      {
-        "name": "Nerijus Oftas",
-        "email": "nerijus.oftas@gmail.com",
-        "commits": 2
-      }
-    ]
+    "updatedTime": 1616962160000
   }
 }

@@ -8,13 +8,6 @@ export const data = {
   "headers": [],
   "filePathRelative": "sending_campaigns/create_email_template.md",
   "git": {
-    "updatedTime": 1616960722000,
-    "contributors": [
-      {
-        "name": "Nerijus Oftas",
-        "email": "nerijus.oftas@gmail.com",
-        "commits": 1
-      }
-    ]
+    "updatedTime": 1616960722000
   }
 }

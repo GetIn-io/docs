@@ -10,6 +10,7 @@
   "searchPlaceholder": "Search...",
   "smoothScroll": true,
   "displayAllHeaders": true,
+  "contributors": false,
   "nav": [
     {
       "text": "GitHub",
@@ -75,7 +76,6 @@
   "selectLanguageAriaLabel": "Select language",
   "editLink": true,
   "lastUpdatedText": "Last Updated",
-  "contributors": true,
   "contributorsText": "Contributors",
   "notFound": [
     "There's nothing here.",
