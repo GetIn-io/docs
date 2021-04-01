@@ -8,7 +8,7 @@ export const siteData = {
       "meta",
       {
         "name": "theme-color",
-        "content": "#3eaf7c"
+        "content": "#0039a4"
       }
     ],
     [
@@ -23,6 +23,13 @@ export const siteData = {
       {
         "name": "apple-mobile-web-app-status-bar-style",
         "content": "black"
+      }
+    ],
+    [
+      "link",
+      {
+        "rel": "shortcut icon",
+        "href": "/assets/favicons/favicon.ico"
       }
     ]
   ],
