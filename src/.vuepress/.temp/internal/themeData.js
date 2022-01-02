@@ -1,4 +1,4 @@
-  export const themeData = {
+export const themeData = {
   "repo": "GetIn-io",
   "repoLabel": "GitHub",
   "editLinkText": "Help us improve this page!",
@@ -66,14 +66,15 @@
   ],
   "locales": {
     "/": {
-      "selectLanguageName": "English",
-      "danger": "WARNING"
+      "selectLanguageName": "English"
     }
   },
   "navbar": [],
   "logo": null,
+  "darkMode": true,
   "selectLanguageText": "Languages",
   "selectLanguageAriaLabel": "Select language",
+  "sidebarDepth": 2,
   "editLink": true,
   "lastUpdatedText": "Last Updated",
   "contributorsText": "Contributors",
@@ -84,6 +85,7 @@
     "Looks like we've got some broken links."
   ],
   "backToHome": "Take me home",
-  "openInNewWindow": "open in new window"
+  "openInNewWindow": "open in new window",
+  "toggleDarkMode": "toggle dark mode",
+  "toggleSidebar": "toggle sidebar"
 }
-  

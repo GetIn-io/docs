@@ -1,3 +1,5 @@
 node_modules\n.temp\n.cache
 /node_modules
 /.idea
+.vuepress
+src/.vuepress

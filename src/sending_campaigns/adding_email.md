@@ -9,15 +9,15 @@ To add a mail account you need to navigate to the Email accounts and click on **
 ## Gmail/G suite account
 
 - Click on the Gmail/G suite icon to add a Gmail/G suite mail account;
-- A new window will open where you will need to sign up to your account;
-- Click Next to go to the next steps and grant needed permissions;
-- That’s it - the account is connected!
+- A new window will open where you will need to configure Gmail SMTP;
+- We strongly recommend to use gmail app password. Don't know how to create app password? Check it [here](https://support.google.com/accounts/answer/185833?hl=en)
+- More how SMTP can be configured check 👇
 
 ## Other SMTP account
 
 - Click on SMTP icon;
 - In the provided form you’ll need to fill all fields: a sender’s name and email, both SMTP and IMAP logins, passwords, servers and ports;
-- Click on Test SMTP and Test IPAM to check if provided credentials are correct - a notification will inform you if everything is alright;
+- Click on Test SMTP and Test IMAP to check if provided credentials are correct - a notification will inform you if everything is alright;
 - Enabling SSL encryption and certificate validation is optional, yet we recommend enabling them to increase the security of transactions;
 - Finally, click Save to connect the account.
 
