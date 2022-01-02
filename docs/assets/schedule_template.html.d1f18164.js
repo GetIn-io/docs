@@ -1,0 +1,1 @@
+const e={key:"v-9218f53e",path:"/sending_campaigns/schedule_template.html",title:"How to setup a schedule template",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1616960722e3},filePathRelative:"sending_campaigns/schedule_template.md"};export{e as data};

@@ -1,0 +1,1 @@
+const e={key:"v-174d8f64",path:"/sending_campaigns/reports.html",title:"Campaign reports",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1616960722e3},filePathRelative:"sending_campaigns/reports.md"};export{e as data};

@@ -1,0 +1,1 @@
+const t={key:"v-8daa1a0e",path:"/",title:"Documentation of outreach tool",lang:"en-US",frontmatter:{home:!0,title:"Documentation of outreach tool",actions:[{text:"Get Started \u2192",link:"/general/faq.html",type:"primary"}],footer:"Made by GetIn with \u2764\uFE0F"},excerpt:"",headers:[],git:{updatedTime:1616960722e3},filePathRelative:"README.md"};export{t as data};
